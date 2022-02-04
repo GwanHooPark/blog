@@ -15,7 +15,7 @@ module.exports = {
         nav: [
             { text: 'JavaScript', link: '/javascript/' },
             { text: 'Vue', link: '/vue/' },
-            { text: 'External', link: 'https://github.com/GwanHooPark' }
+            { text: 'GitHub', link: 'https://github.com/GwanHooPark' , target: '_blank'}
           ],
       
       sidebar: {
